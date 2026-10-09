@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiphase flow at Chalmers
+title: So, what is multiphase flow?
 date: 2025-06-08
 description: A sneak peak into the world of multiphase flow research, education, and events at Chalmers University of Technology.
 tags: fluid-dynamics communication
@@ -14,9 +14,9 @@ Little did I know that I would eventually become part of the  <a href='https://w
 
 Depending on which office you walked into, someone might be studying bubbles, droplets, particles, porous media, phase change, reactive flows, heat and mass transfer, or geophysical flows. The applications were just as diverse, ranging from clouds and microplastics to pharmaceutical processes, carbon capture, urban flows and industrial reactors.
 
-So I decided to put all of it in one place. I designed a large poster bringing together the research across our group, with 17 projects represented through visualizations and short descriptions of the scientific questions behind them. Of course, I also managed to sneak my microplastics into it. 😄
+So I decided to bring it all together. I designed a large poster showcasing 17 research projects across our group, each represented through visualizations and short descriptions of the scientific questions behind them. Of course, I also managed to sneak my microplastics into it. 😄
 
-You can now find this poster, shown below, at the entrance to the Division of Fluid Dynamics. The idea was simple: anyone walking past should be able to stop for a moment and get a glimpse of what multiphase flow research at Chalmers actually looks like.
+You can now find the poster, shown below, at the entrance to the Division of Fluid Dynamics. The idea was simple: anyone walking past should be able to stop for a moment and discover what multiphase flow research at Chalmers actually looks like.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,16 +34,20 @@ You can now find this poster, shown below, at the entrance to the Division of Fl
 
 ## So, what is multiphase flow?
 
-At its simplest, a multiphase flow is a flow involving more than one phase. For example, particles suspended in a liquid, bubbles moving through a liquid, droplets carried by a gas, or systems involving phase change. That simple definition, however, leads to an enormous range of problems in both nature and engineering.
+At its simplest, multiphase flow describes the movement and interaction of different phases of matter, such as solids, liquids, and gases. Think of bubbles rising through water, droplets carried by air, or tiny particles suspended in the ocean. Despite this simple definition, multiphase flows are involved in an enormous range of natural phenomena and engineering processes.
 
 ## The wider multiphase flow community
 
-The multiphase flow community also extends beyond our division through SIAMUF, the <a href='https://siamuf.se/'>Swedish Industrial Association for Multiphase Flows</a>, which connects researchers and industry working on multiphase flow problems. This interaction between academia and industry is particularly valuable in multiphase flows as our work is relevant for an enormous range of applications.
+Our research community extends well beyond Chalmers. One example is SIAMUF, the <a href='https://siamuf.se/'>Swedish Industrial Association for Multiphase Flows</a>, which brings together researchers and industry professionals working on multiphase flow problems. These connections are particularly valuable because multiphase flow research has applications across many scientific and industrial fields.
 
-You will also regularly find members of our group presenting their work at major international conferences, including the <a href='https://www.icmf2025.com/'>International Conference on Multiphase Flow (ICMF)</a> and the <a href='https://ge.iitm.ac.in/icnmmf-6/organizers'>International Conference on Numerical Methods in Multiphase Flows (ICNMMF)</a>.
+Members of our group also regularly present their work at major international conferences, including the <a href='https://www.icmf2025.com/'>International Conference on Multiphase Flow (ICMF)</a> and the <a href='https://ge.iitm.ac.in/icnmmf-6/organizers'>International Conference on Numerical Methods in Multiphase Flows (ICNMMF)</a>.
 
 ## Want to learn multiphase flows?
 
-Our group also offers courses on multiphase flows and is taught both to Master's students and, through a separate course, to PhD students and participants from outside Chalmers, including researchers and people from industry.
+Our group also offers courses in multiphase flows, both for Master's students and, through a separate course, for PhD students and participants from outside Chalmers, including researchers and industry professionals.
 
-The courses introduce many of the methods and physical problems we encounter in our research, including a broad introduction to multiphase flows, Lagrangian particle tracking (LPT), multi-scale methods, direct numerical simulations (DNS), wetting, the lattice Boltzmann method (LBM), rheology, particle-based methods, heat and mass transfer, and hybrid methods. If you are a PhD student, researcher, or industry professional interested in taking the course, feel free to get in touch with <a href='https://www.chalmers.se/en/persons/srdjan/'>Srdjan Sasic</a> at Chalmers for more information about upcoming course opportunities.
+These courses introduce the physical principles and numerical methods used to study multiphase flows. Topics include Lagrangian particle tracking (LPT), multiscale methods, direct numerical simulations (DNS), wetting, the lattice Boltzmann method (LBM), rheology, particle-based methods, heat and mass transfer, and hybrid numerical approaches.
+
+If you are a PhD student, researcher, or industry professional interested in taking the course, feel free to contact <a href='https://www.chalmers.se/en/persons/srdjan/'>Srdjan Sasic</a> at Chalmers for more information about upcoming opportunities.
+
+I hope this gives you a glimpse into the fascinating world of multiphase flows and the work we do at Chalmers. And if you ever find yourself at the Division of Fluid Dynamics, stop by and take a look at our poster. You might discover something unexpected about the science behind everyday phenomena!

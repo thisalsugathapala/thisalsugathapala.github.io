@@ -2,7 +2,7 @@
 layout: post
 title: A suprising invitation to GUIDE Days 2025
 date: 2025-12-15
-description: Sweden's approach to bringing researchers, authorities, and industry together to tackle the problem of microplastic pollution.
+description: How a copy of my licentiate thesis led to an unexpected opportunity to connect with researchers, industry, and authorities working on marine microplastic pollution.
 thumbnail: assets/img/blog/guide2.webp
 tags: events communication environmental-science hands-on
 categories: science
@@ -10,9 +10,9 @@ categories: science
 
 ---
 
-Following a successful licentiate defence, copies of my thesis started finding their way to different people working on microplastics, introducing my research and the somewhat different perspective I was bringing to the problem. Little did I know that handing out those copies would eventually open the door to some unexpected opportunities.
+Following my successful licentiate defence, copies of my thesis began finding their way to people working on microplastics, introducing my research and the modelling perspective I was bringing to the problem. Little did I know that sharing those copies would eventually lead to an unexpected opportunity.
 
-One day, I received a surprising email from Agnes Faxén at the Skagerak Facility, University of Gothenburg. Somehow, one of my thesis copies had found its way to her. She had read about my work, **Multi-scale modeling of microplastics transport in marine environments**, and invited me to take part in GUIDE Days 2025, an event bringing together researchers and industry around the topic of microplastics and marine health.
+One day, I received a surprising email from Agnes Faxén at the Skagerak Facility, University of Gothenburg. Somehow, a copy of my thesis had found its way to her. She had read about my work, **Multi-scale modeling of microplastics transport in marine environments**, and invited me to take part in GUIDE Days 2025, an event bringing together researchers, authorities, and industry representatives to discuss microplastics and marine health.
 
 And that was how my GUIDE Days journey began.
 
@@ -20,7 +20,7 @@ And that was how my GUIDE Days journey began.
 
 I was invited to join the academic team demonstrating how we study microplastics in the marine environment. Luckily for me, I was not walking into a completely unfamiliar group. Several people I already knew through my research collaborations were part of the team, including Martin Hassellöv, Karin Mattsson, and Irina Polovodova .
 
-The first day took place aboard R/V Skagerak, where I was given the microplastic visualization station. My job was essentially to introduce participants from different national authorities and the plastics industry to the problem of microplastic pollution and show them what we actually mean when we talk about "microplastics pollution", like I am doing below!
+The first day took place aboard R/V Skagerak, where I was responsible for the microplastic visualization station. My task was to introduce representatives from Swedish authorities and the plastics industry to the problem of microplastic pollution, explain where these particles come from, and show them what microplastics actually look like, as you can see below!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -103,7 +103,7 @@ The rest of the day followed the journey of how we study microplastics in the oc
 
 The second day moved from the research vessel to presentations and discussions. This time, my role was to show where modelling fits into everything we had seen the previous day.
 
-I presented how numerical models can help us understand the fate of microplastics after they enter the ocean. Observations can tell us where particles are found, while modelling gives us another way of asking how they might have reached those locations, how currents and turbulence transport them, and how processes such as biofouling and interactions with the surrounding environment influence where they eventually accumulate.
+I presented how numerical models help us investigate what happens to microplastics after they enter the ocean. While field observations reveal where particles are found, models allow us to explore how they might have reached those locations, how ocean currents and turbulence transport them, and how processes such as biofouling, sedimentation, and resuspension influence where they eventually accumulate.
 
 GUIDE Days ended up being quite different from a typical academic conference. Instead of mostly explaining research to other researchers working on similar problems, I found myself discussing microplastics with people who approach the same problem from very different directions.
 
@@ -111,4 +111,4 @@ I went there to explain what we know about microplastic pollution and how we mod
 
 And all of it started because I handed out a copy of my thesis and, somehow, it reached the right person.
 
-Head over to this article from the University of Gothenburg to learn more about <a href='https://www.gu.se/en/news/marine-plastic-pollution-brings-science-and-industry-together-for-a-day'>GUIDE-days: Microplastics and Marine Health – Challenges and Solutions</a>.
+If you're curious to learn more about the event, check out this article from the University of Gothenburg: <a href='https://www.gu.se/en/news/marine-plastic-pollution-brings-science-and-industry-together-for-a-day'>GUIDE-days: Microplastics and Marine Health – Challenges and Solutions</a>.

@@ -93,10 +93,11 @@ What made the sediment particularly interesting was that it was very obviously n
 
 The cruise also gave me the opportunity to learn about other oceanographic measurements. I got to see how a CTD rosette is deployed and how water samples and measurements of the water column are collected. For someone coming primarily from the modelling side, seeing how the environmental data we so often use in our models are actually collected was particularly valuable.
 
+Back in the laboratory, these sediment samples can be processed to identify and quantify the microplastics they contain. By comparing samples collected at different locations and depths, researchers can investigate how plastic pollution is distributed across the fjord system and how it may have changed over time.
+
 ## Local pollutant sources
 
-
-Stenungsund is particularly interesting because of its long history of plastics production, but industrial plastic pellets are only one part of the microplastic pollution found in coastal environments. My collaborators have investigated several other local sources, including particles associated with tyre wear, municipal wastewater effluent,  boat and ship paints, and grey water from marine vessels. Some of these microplastics, as observed under a microscope, are shown below.
+But why are we particularly interested in collecting sediment samples from these fjords? Part of the answer lies in Stenungsund's long history of plastics production. However, industrial plastic pellets are only one piece of the puzzle. Microplastics can also originate from tyre wear, municipal wastewater, boat and ship paints, and wastewater discharged from marine vessels. My collaborators have investigated several of these sources, revealing just how diverse the particles entering coastal environments can be. Some of these microplastics, as observed under a microscope, are shown below.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -131,12 +132,12 @@ And that is where my part of the collaboration comes in.
 ## Back to my side of the story
 
 
-I work with Karin Mattsson and Martin Hassellöv, who are also co-authors on my research, and during the cruise I also got to know Irina Polovodova, whom I would later meet again at Marine Research Days. Working alongside them gave me a much greater appreciation for how much effort goes into producing the environmental observations that can eventually appear as a few data points in a dataset or figure.
+I work with Karin Mattsson and Martin Hassellöv, and during the cruise I also got to know Irina Polovodova, whom I would later meet again at Marine Research Days. Working alongside them gave me a much greater appreciation for how much effort goes into producing the environmental observations that can eventually appear as a few data points in a dataset or figure.
 
 My role in this research is largely on the theoretical and numerical side. I develop models that try to explain how microplastics move through environments such as these fjords: how ocean currents and turbulence transport them, how they interact with sediments, and where they may eventually accumulate.
 
-Field observations and numerical models therefore give us different pieces of the same problem. The samples tell us what is actually present in the environment. The models allow us to explore the physical processes and transport pathways that could have produced those patterns.
+Field observations and numerical models offer complementary perspectives on the same problem. While sediment samples reveal what has accumulated in the environment, numerical models help us investigate the physical processes and transport pathways that may explain those patterns.
 
-After a fantastic expedition aboard R/V Skagerak, I eventually went back to my office with a bucket full of ideas, happy to return to my equations and simulations, but now with a completely different perspective on how theoretical, numerical, and field work can come together to understand the same environmental problem.
+After a fantastic expedition aboard R/V Skagerak, I returned to my office with a bucket full of ideas. I was happy to be back with my equations and simulations, but now with a new appreciation for how theoretical, numerical, and field research come together to understand the same environmental problem.
 
-Head over to this article from the University of Gothenburg to learn more about <a href='https://www.gu.se/nyheter/sa-kan-stenungsunds-plastindustri-sparas-i-havsbotten'>tracing Stenungsund's plastics industry</a>.
+f you're curious about what these sediment samples can reveal, check out this article from the <a href='https://www.gu.se/nyheter/sa-kan-stenungsunds-plastindustri-sparas-i-havsbotten'>University of Gothenburg</a> about tracing the history of Stenungsund's plastics industry through the seabed..
