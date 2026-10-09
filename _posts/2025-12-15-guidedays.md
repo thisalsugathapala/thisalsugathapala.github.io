@@ -4,7 +4,7 @@ title: A suprising invitation to GUIDE Days 2025
 date: 2025-12-15
 description: Sweden's approach to bringing researchers, authorities, and industry together to tackle the problem of microplastic pollution.
 thumbnail: assets/img/blog/guide2.webp
-tags: events communication environmental-science
+tags: events communication environmental-science hands-on
 categories: science
 #featured: true
 
